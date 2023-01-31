@@ -84,6 +84,7 @@ html {
 
 body {
     height: 100%;
+    overflow-x: hidden;
     background-color: var(--clr-white);
     font-family: 'SF-Regular', sans-serif;
     font-weight: 400;
